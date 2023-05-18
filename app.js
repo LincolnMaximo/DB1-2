@@ -1,3 +1,5 @@
 console.log('agora vai!')
 
-const a = "x"
+const  x = "x"
+
+const batataFrita = "Precisa de um xbacon"
