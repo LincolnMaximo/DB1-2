@@ -10,3 +10,6 @@ function sumNumbers(x, y){
 }
 
 console.log('agora vai!')
+console.log('aprendendo stash')
+
+const nomes = ['Lincoln', 'Joao']
